@@ -20,19 +20,19 @@ Waliya Tech is a dynamic team of developers, designers, and project managers ded
 
 Here are some of our key projects:
 
-### Project 1: WaliyaShop
+### Project 1: Waliya-Shop
 
 - **Description:** WaliyaShop is an e-commerce platform that allows users to browse, search, and purchase products from various categories. The platform includes features like user authentication, shopping cart, payment gateway integration, and order tracking.
 - **Technologies:** React, Node.js, Express, MongoDB
 - **Repository:** [WaliyaShop Repository](https://github.com/waliyatech/waliyashop)
 
-### Project 2: WaliyaBlog
+### Project 2: Waliya-Blog
 
 - **Description:** WaliyaBlog is a content management system for bloggers and writers. It enables users to create, edit, and publish articles. The platform supports rich text editing, tagging, commenting, and social media sharing.
 - **Technologies:** Angular, Django, PostgreSQL
 - **Repository:** [WaliyaBlog Repository](https://github.com/waliyatech/waliyablog)
 
-### Project 3: WaliyaChat
+### Project 3: Waliya-Chat
 
 - **Description:** WaliyaChat is a real-time messaging application designed for teams and individuals. It includes features such as direct messaging, group chats, file sharing, and notifications.
 - **Technologies:** Vue.js, Firebase, Node.js
