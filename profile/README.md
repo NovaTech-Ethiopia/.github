@@ -1,6 +1,6 @@
-# Welcome to Hub Tech
+# Welcome to Waliya Tech
 
-Welcome to Hub Tech's GitHub! We specialize in full-stack website development, creating robust, scalable, and user-friendly web applications. Our team is committed to delivering high-quality solutions using the latest technologies and best practices in the industry.
+Welcome to Waliya Tech's GitHub! We specialize in full-stack website development, creating robust, scalable, and user-friendly web applications. Our team is committed to delivering high-quality solutions using the latest technologies and best practices in the industry.
 
 ## Table of Contents
 
@@ -14,25 +14,31 @@ Welcome to Hub Tech's GitHub! We specialize in full-stack website development, c
 
 ## About Us
 
-Hub Tech is a dynamic team of developers, designers, and project managers dedicated to building full-stack web applications. We collaborate closely with our clients to understand their needs and deliver solutions that exceed their expectations.
+Waliya Tech is a dynamic team of developers, designers, and project managers dedicated to building full-stack web applications. We collaborate closely with our clients to understand their needs and deliver solutions that exceed their expectations.
 
 ## Projects
 
 Here are some of our key projects:
 
-### Project 1: [Project Name]
+### Project 1: WaliyaShop
 
-- **Description:** Brief description of the project.
-- **Technologies:** List of main technologies used.
-- **Repository:** [Link to the repository]
+- **Description:** WaliyaShop is an e-commerce platform that allows users to browse, search, and purchase products from various categories. The platform includes features like user authentication, shopping cart, payment gateway integration, and order tracking.
+- **Technologies:** React, Node.js, Express, MongoDB
+- **Repository:** [WaliyaShop Repository](https://github.com/waliyatech/waliyashop)
 
-### Project 2: [Project Name]
+### Project 2: WaliyaBlog
 
-- **Description:** Brief description of the project.
-- **Technologies:** List of main technologies used.
-- **Repository:** [Link to the repository]
+- **Description:** WaliyaBlog is a content management system for bloggers and writers. It enables users to create, edit, and publish articles. The platform supports rich text editing, tagging, commenting, and social media sharing.
+- **Technologies:** Angular, Django, PostgreSQL
+- **Repository:** [WaliyaBlog Repository](https://github.com/waliyatech/waliyablog)
 
-For a full list of our projects, please visit our [repositories](https://github.com/hub-tech?tab=repositories).
+### Project 3: WaliyaChat
+
+- **Description:** WaliyaChat is a real-time messaging application designed for teams and individuals. It includes features such as direct messaging, group chats, file sharing, and notifications.
+- **Technologies:** Vue.js, Firebase, Node.js
+- **Repository:** [WaliyaChat Repository](https://github.com/waliyatech/waliyachat)
+
+For a full list of our projects, please visit our [repositories](https://github.com/waliyatech?tab=repositories).
 
 ## Technologies
 
@@ -51,7 +57,7 @@ To get started with any of our projects, follow these steps:
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/hub-tech/repository-name.git
+    git clone https://github.com/waliyatech/repository-name.git
     ```
 
 2. **Navigate to the project directory:**
@@ -95,14 +101,14 @@ Our projects are licensed under the [MIT License](LICENSE). Feel free to use, mo
 
 If you have any questions, feel free to reach out to us:
 
-- **Email:** [contact@hubtech.com](mailto:contact@hubtech.com)
-- **Twitter:** [@HubTechTwitterHandle](https://twitter.com/HubTechTwitterHandle)
-- **LinkedIn:** [Hub Tech LinkedIn](https://www.linkedin.com/company/hub-tech)
+- **Email:** [contact@waliyatech.com](mailto:contact@waliyatech.com)
+- **Twitter:** [@WaliyaTech](https://twitter.com/WaliyaTech)
+- **LinkedIn:** [Waliya Tech LinkedIn](https://www.linkedin.com/company/waliyatech)
 
 Thank you for visiting our GitHub organization. We look forward to collaborating with you!
 
 ---
 
-Hub Tech © 2024. All rights reserved.
+Waliya Tech © 2024. All rights reserved.
 
 ---
