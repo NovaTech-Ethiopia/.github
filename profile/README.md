@@ -46,7 +46,7 @@ Here are some of the projects we have worked on:
 2. **Project Beta**: An educational portal for interactive learning experiences.
 3. **Project Gamma**: A social media application with advanced privacy features.
 
-Check out our [repositories](https://github.com/Nova-Tech) to see more of our work!
+Check out our [repositories](https://github.com/NovaTech-Ethiopia) to see more of our work!
 
 ## Get Involved
 
