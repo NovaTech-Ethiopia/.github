@@ -26,14 +26,16 @@ Our full-stack development team is proficient in the latest technologies and fra
 - **Responsive Design**: Ensuring your website looks great on all devices.
 - **E-commerce Solutions**: Building robust online stores to boost your business.
 - **API Development and Integration**: Seamless integration of third-party services.
+- **Cyber-Security and Hacking Pentesting**: Protecting your digital assets through rigorous security testing.
 
 ### Tech School
 
 Nova-Tech’s Tech School is dedicated to providing high-quality education in various fields of technology. Our programs include:
 
 - **Web Development Bootcamps**: Intensive courses covering HTML, CSS, JavaScript, and more.
+- **Cyber-Security and Ethical Hacking**: Courses on securing systems and ethical penetration testing.
 - **Advanced Programming Courses**: Deep dives into frameworks like React, Angular, and Vue.js.
-- **Data Science and Machine Learning**: Training on data analysis, visualization, and machine learning techniques.
+
 - **Workshops and Seminars**: Regular events featuring industry experts.
 
 ## Projects
